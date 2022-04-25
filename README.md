@@ -1,7 +1,7 @@
 # DeepLearning.AI-Natural-Language-Processing-Specialization Course
 DeepLearning.AI Natural Language Processing Specialization 
 
-# 1.  Natural Language Processing with Classification and Vector Spaces   
+## 1.  Natural Language Processing with Classification and Vector Spaces   
 Topics      
 > Week 1:  
 > > 01 - Word preprocessing  
@@ -23,7 +23,7 @@ Topics
 > > 02 - Hash functions and multiplanes  
 > > 03 - Naive Machine Translation and LSH Document Searching   
 
-# 1.  Natural Language Processing with Probabilistic Models  
+## 2.  Natural Language Processing with Probabilistic Models  
 Topics        
 > Week 1:  
 > > 01 - Building the vocabulary model      
