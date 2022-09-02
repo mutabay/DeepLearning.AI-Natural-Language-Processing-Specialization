@@ -1,4 +1,11 @@
 # DeepLearning.AI-Natural-Language-Processing-Specialization Course
+
+
+
+<hr> 
+
+
+
 DeepLearning.AI Natural Language Processing Specialization 
 
 ## 1.  Natural Language Processing with Classification and Vector Spaces   
@@ -23,6 +30,22 @@ Topics
 > > 02 - Hash functions and multiplanes  
 > > 03 - Naive Machine Translation and LSH Document Searching   
 
+
+
+<br>
+
+![image](https://user-images.githubusercontent.com/60510780/188178827-ba1d5558-e1a6-41e3-99ba-27df837e5d7f.png)
+
+
+
+<hr>
+
+
+
+
+
+
+
 ## 2.  Natural Language Processing with Probabilistic Models  
 Topics        
 > Week 1:  
@@ -46,4 +69,15 @@ Topics
 > > 03 - Training the CBOW Model  
 > > 04 - Word embeddings - 1  
 > > 05 - Word embeddings - 2     
+
+<br>
+
+![image](https://user-images.githubusercontent.com/60510780/188178934-cb441ae4-bb04-4e83-9a61-a61d59caacfc.png)
+
+
+
+<hr>
+
+
+
 
