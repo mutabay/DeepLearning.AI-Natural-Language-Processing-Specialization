@@ -1,83 +1,82 @@
-# DeepLearning.AI-Natural-Language-Processing-Specialization Course
+# DeepLearning.AI Natural Language Processing Specialization
 
+Assignments for DeepLearning.AI's NLP Specialization
 
+## 📋 Overview
 
-<hr> 
+Comprehensive NLP course covering classification, vector spaces, probabilistic models, and deep learning techniques for natural language processing tasks.
 
+## 📂 Course 1: Natural Language Processing with Classification and Vector Spaces
 
+**[Course Materials](Natural%20Language%20Processing%20with%20Classification%20and%20Vector%20Spaces/)**
 
-DeepLearning.AI Natural Language Processing Specialization 
+### Topics Covered
 
-## 1.  Natural Language Processing with Classification and Vector Spaces   
-Topics      
-> Week 1:  
-> > 01 - Word preprocessing  
-> > 02 - Word frequencies  
-> > 03 - Sentiment Analysis with Logistic Regression  
+**Module 1: Sentiment Analysis**
+- Word preprocessing and frequencies
+- Logistic regression for sentiment classification
 
-> Week 2:  
-> > 01 - Visualizing Naive Bayes  
-> > 02 - Sentiment Analysis with Naive Bayes  
+**Module 2: Naive Bayes**
+- Probabilistic classification
+- Sentiment analysis implementation
 
-> Week 3:  
-> > 01 - Linear Algebra  
-> > 02 - Manipulating word embeddings  
-> > 03 - Principal Component Analysis (PCA)  
-> > 04 - Vector Space Models  
+**Module 3: Vector Space Models**
+- Linear algebra fundamentals
+- Word embeddings manipulation
+- Principal Component Analysis (PCA)
 
-> Week 4:     
-> > 01 - Vector manipulation  
-> > 02 - Hash functions and multiplanes  
-> > 03 - Naive Machine Translation and LSH Document Searching   
+**Module 4: Machine Translation**
+- Vector manipulation techniques
+- Hash functions and locality-sensitive hashing
+- Document search and translation
 
+![Course 1 Certificate](https://user-images.githubusercontent.com/60510780/188178827-ba1d5558-e1a6-41e3-99ba-27df837e5d7f.png)
 
+---
 
-<br>
+## 📂 Course 2: Natural Language Processing with Probabilistic Models
 
-![image](https://user-images.githubusercontent.com/60510780/188178827-ba1d5558-e1a6-41e3-99ba-27df837e5d7f.png)
+**[Course Materials](Natural%20Language%20Processing%20with%20Probabilistic%20Models/)**
 
+### Topics Covered
 
+**Module 1: Autocorrect**
+- Vocabulary model building
+- Edit distance and candidate generation
+- Spelling correction systems
 
-<hr>
+**Module 2: Part-of-Speech Tagging**
+- String and tag processing
+- Hidden Markov Models for POS tagging
 
+**Module 3: Language Models**
+- Corpus preprocessing
+- N-gram language models
+- Out-of-vocabulary word handling
 
+**Module 4: Word Embeddings**
+- Continuous Bag of Words (CBOW) model
+- Word2Vec implementation
+- Advanced embedding techniques
 
+![Course 2 Certificate](https://user-images.githubusercontent.com/60510780/188178934-cb441ae4-bb04-4e83-9a61-a61d59caacfc.png)
 
+---
 
+## 🛠️ Techniques Implemented
 
+- Sentiment analysis with logistic regression and Naive Bayes
+- Vector space models and word embeddings
+- Part-of-speech tagging with HMMs
+- Language modeling and autocorrect systems
+- CBOW and Word2Vec algorithms
 
-## 2.  Natural Language Processing with Probabilistic Models  
-Topics        
-> Week 1:  
-> > 01 - Building the vocabulary model      
-> > 02 - Candidates from edits      
-> > 03 - Autocorrect    
+## 📚 Specialization
 
-> Week 2:  
-> > 01 - Strings tags      
-> > 02 - Tags and NumPy    
-> > 03 - Parts-of-Speech Tagging (POS)      
+**Specialization**: Natural Language Processing  
+**Provider**: DeepLearning.AI  
+**Platform**: Coursera
 
-> Week 3:    
-> > 01 - Corpus preprocessing    
-> > 02 - Building the language model      
-> > 03 - Out of vocabulary words (OOV)      
+---
 
-> Week 4:      
-> > 01 - Data preparation    
-> > 02 - Intro to CBOW Model  
-> > 03 - Training the CBOW Model  
-> > 04 - Word embeddings - 1  
-> > 05 - Word embeddings - 2     
-
-<br>
-
-![image](https://user-images.githubusercontent.com/60510780/188178934-cb441ae4-bb04-4e83-9a61-a61d59caacfc.png)
-
-
-
-<hr>
-
-
-
-
+*Applied NLP techniques from classification to word embeddings*
